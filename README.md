@@ -5,7 +5,7 @@ Welcome to  the beginner-friendly project - " The Polka Dot Generator   "
 Crafted and taught by **Shreya Malogi!** 🌐
 
 
- [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/the_hirst_painting.svg?style=social)](https://github.com/shreyamalogi/https://github.com/shreyamalogi/the_hirst_painting/stargazers)
+ [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/Polka-Dot-Generator.svg?style=social)](https://github.com/shreyamalogi/https://github.com/shreyamalogi/Polka-Dot-Generator/stargazers)
 
 ### Project Details: 💻🌐📅✍️
 
@@ -86,7 +86,7 @@ screen.exitonclick()
 - `hideturtle()`: Hides the turtle cursor.
 
 ---
-- Running the Painting Loop 🔄
+#### Running the Painting Loop 🔄
 
 The script uses a loop to draw dots on the canvas:
 
