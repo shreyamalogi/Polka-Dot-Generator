@@ -1,4 +1,8 @@
-# The Hirst Painting Generator 🎨
+# The Polka Dot Generator 🎨
+
+Welcome to  the beginner-friendly project - " The Polka Dot Generator   "
+
+Crafted and taught by **Shreya Malogi!** 🌐
 
 
  [![GitHub stars](https://img.shields.io/github/stars/shreyamalogi/the_hirst_painting.svg?style=social)](https://github.com/shreyamalogi/https://github.com/shreyamalogi/the_hirst_painting/stargazers)
@@ -28,7 +32,7 @@
 
 ## Introduction 🎨
 
-Welcome to the Hirst Painting Generator! This Python script, crafted and taught by [Shreya Malogi](https://github.com/shreyamalogi), utilizes the Turtle module to create a stunning Hirst-inspired painting. Let's embark on your artistic coding journey! 🚀
+This Python script utilizes the Turtle module to create a stunning Hirst-inspired painting. Let's embark on your artistic coding journey! 🚀
 
 ## Prerequisites 🛠️
 
